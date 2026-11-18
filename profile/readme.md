@@ -10,6 +10,7 @@ was lost is named, never silent.
 
 - Try it: https://tryswage.com
 - Contact: ask@tryswage.com
+- Questions and wishes: https://github.com/swagetool/format-notes/discussions
 
 ## How files are handled
 
